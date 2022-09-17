@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Budgetio</string>
+    <string name="get_started_on">Get Started on</string>
+    <string name="budgetio">Budgetio</string>
+    <string name="get_started_desc">Set everyday budget and save money to\n gift yourself at the end!</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="statistics">Statistics</string>
+    <string name="spending">Spending</string>
+    <string name="wallet">Wallet</string>
+    <string name="notification">Notification</string>
+</resources>
